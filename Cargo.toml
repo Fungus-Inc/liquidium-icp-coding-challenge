@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/loans_backend"
+]
+resolver = "2"

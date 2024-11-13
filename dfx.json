@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "loans_backend": {
+      "candid": "src/loans_backend/loans_backend.did",
+      "package": "loans_backend",
+      "type": "rust"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
